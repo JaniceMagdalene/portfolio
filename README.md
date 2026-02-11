@@ -31,6 +31,6 @@ Features
 Author
 Janice Magdalene D
 
-Email: janicemagdalene@gmail.comw
+Email: janicemagdalene@gmail.com
 
 
