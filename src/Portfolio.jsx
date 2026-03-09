@@ -436,15 +436,18 @@ const Portfolio = () => {
               period: 'Nov 2024 - Jun 2025',
               location: 'Bangalore',
               description: [
-                'Performed functional, regression and UI testing across multiple banking modules in OMNI',
-                'Executed detailed test cases, logged defects, and collaborated with developers for timely resolution',
-                'Worked with automation tools including Gherkin, Cucumber and Playwright for scenario-based testing',
-                'Used SQL for backend validation, data extraction and verifying system behavior',
-                'Participated in defect tracking and documentation using JIRA',
-                'Tested using SOAP services, analyzed backend logs and supported troubleshooting activities',
-                'Gained hands-on experience in Agile processes including sprint planning, reviews and daily stand-ups',
-                'Coordinated with QA, Dev and Product teams to ensure smooth testing workflow'
-              ],
+'Automated test scenarios using Playwright, Cucumber and Gherkin to improve testing efficiency',
+'Executed 400+ regression test cases to ensure application stability across releases',
+'Performed functional, regression and UI testing across multiple modules of the OMNI banking platform',
+'Worked on IMAL Core Banking Front-End and supported modules including CSM, FMS, ATM and integrated components',
+'Investigated defects by analyzing backend logs and tracing issues across modules to identify root causes',
+'Logged, tracked and managed defects using JIRA while collaborating closely with development teams',
+'Handled user stories, feature modifications and client-reported issues ensuring timely resolution',
+'Used SQL queries for backend data validation and verification during testing activities',
+'Worked with SOAP services and backend logs for troubleshooting and system validation',
+'Participated in Agile ceremonies including sprint planning, daily stand-ups and sprint reviews',
+'Collaborated with QA, Development and Product teams to improve defect tracking and release quality'
+],
             },
             {
               company: 'Accenture',
@@ -452,10 +455,15 @@ const Portfolio = () => {
               period: 'May 2024 - Jul 2024',
               location: 'Bangalore',
               description: [
-                'Hands-on exposure to SAP SD module including core T-codes and billing workflows',
-  'Developed cross-module understanding of SAP enterprise architecture ',
-  'Collaborated with cross-functional teams'
-              ],
+'Gained hands-on understanding of the SAP Sales and Distribution (SD) module and its integration with other SAP modules',
+'Learned the Sales Order to Billing lifecycle including order creation, delivery processing and billing document generation',
+'Worked with SAP transaction codes (T-codes) for efficient navigation and execution of sales management tasks',
+'Explored enterprise interfaces including SAP GUI, SAP UI5 and Fiori for interacting with SAP applications',
+'Developed knowledge of sales organizational structures such as divisions, distribution channels and sales organizations',
+'Understood material master and customer master data management for maintaining accurate product and client information',
+'Learned how billing and sales transactions generate accounting documents in the system',
+'Explored business workflows integrating SAP SD with other modules such as Finance and Logistics'
+],
             },
             {
               company: 'YBI Foundation',
